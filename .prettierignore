@@ -1,0 +1,5 @@
+.next
+next-env.d.ts
+pnpm-lock.yaml
+.DS_Store
+README.md
